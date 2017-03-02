@@ -7,5 +7,9 @@
     <string name="talk">闲聊扯淡</string>
     <string name="username">点击头像登录</string>
     <string name="user_desc">简介</string>
+    <string name="newsone">新闻头条</string>
+    <string name="newstwo">时事新闻</string>
+    <string name="newsthree">微信精选</string>
+    <string name="newsfour">笑话大全</string>
 
 </resources>
